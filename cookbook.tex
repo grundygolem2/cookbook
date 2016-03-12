@@ -1,0 +1,39 @@
+\documentclass[12pt,twoside,letterpaper]{recipe}
+\usepackage{xfrac}
+\newcommand{\fr}[2]{$\sfrac{#1}{#2}$}
+\usepackage{gensymb}
+\usepackage[T1]{fontenc}
+\usepackage{bookman}
+
+\newcommand{\re}[3]{
+  \begin{minipage}{\textwidth}
+  \recipe{#1}
+  \ingred{#2}
+  \vspace{0.3cm}
+  #3
+  \vspace{1.5cm}
+  \end{minipage}
+}
+
+\usepackage{titlesec}
+\titleformat{\chapter}[block]
+  {\normalfont\huge\bfseries}{\thechapter.}{1em}{\Huge}
+\titlespacing*{\chapter}{0pt}{-19pt}{0pt}
+
+\title{My Mother's Cookbook}
+\author{Collected and Typed by Elizabeth Casey \\
+        Edited, Typeset and Extended by John Casey}
+\date{\today}
+
+\makeatletter
+\renewcommand*\l@subsubsection{\@dottedtocline{3}{3em}{0em}}
+\makeatother
+
+\setlength\parindent{0pt}
+\setlength\parskip{2ex plus 0.5ex}
+
+\begin{document}
+\maketitle
+\tableofcontents
+\include{./apps/apps}
+\end{document}
