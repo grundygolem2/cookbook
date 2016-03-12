@@ -2,17 +2,17 @@
 \contentsline {subsubsection}{Artichoke Dip}{5}
 \contentsline {subsubsection}{Black Bean and Mango Salsa}{5}
 \contentsline {subsubsection}{Curry Dip}{6}
-\contentsline {subsubsection}{Garlic and Sun-Dried Tomato Hummus}{7}
+\contentsline {subsubsection}{Garlic and Sun-Dried Tomato Hummus}{6}
 \contentsline {subsubsection}{Goat Cheese Spread}{7}
-\contentsline {subsubsection}{Parmesan Cheese Puff Rounds}{8}
-\contentsline {subsubsection}{Onion Dip}{9}
-\contentsline {subsubsection}{Praline Pecans}{10}
-\contentsline {subsubsection}{Seafood Dip}{10}
-\contentsline {subsubsection}{Southwestern Ranch Dip}{11}
-\contentsline {subsubsection}{Spicy Candied Pecans}{11}
-\contentsline {subsubsection}{Tomato Mozzerella Tart}{12}
+\contentsline {subsubsection}{Parmesan Cheese Puff Rounds}{7}
+\contentsline {subsubsection}{Onion Dip}{8}
+\contentsline {subsubsection}{Praline Pecans}{8}
+\contentsline {subsubsection}{Seafood Dip}{9}
+\contentsline {subsubsection}{Southwestern Ranch Dip}{9}
+\contentsline {subsubsection}{Spicy Candied Pecans}{10}
+\contentsline {subsubsection}{Tomato Mozzerella Tart}{10}
 \contentsline {chapter}{\numberline {2}Breakfast}{13}
 \contentsline {subsubsection}{Banana Oatmeal Loaf}{13}
-\contentsline {subsubsection}{Berry Special Muffins}{14}
+\contentsline {subsubsection}{Berry Special Muffins}{13}
 \contentsline {subsubsection}{Blueberry Muffins}{14}
-\contentsline {subsubsection}{Carrot Bread}{15}
+\contentsline {subsubsection}{Carrot Bread}{14}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.9)  12 MAR 2016 17:07
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.9)  12 MAR 2016 17:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -594,10 +594,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--9
 
  []
 
-[5]
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [6])
+ [5])
 (./apps/goatSpread.tex) (./apps/puffRounds.tex
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <8.39996> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 10.
@@ -616,6 +616,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--9
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [6]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [7]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -625,14 +628,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [9]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [10]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [11])
-[12])
+ [10])
+[11])
 \openout2 = `./breakfast/breakfast.aux'.
 
- (./breakfast/breakfast.tex
+ (./breakfast/breakfast.tex [12
+
+
+
+]
 Chapter 2.
 (./breakfast/bananaOatmealLoaf.tex) (./breakfast/berryMuffins.tex)
 (./breakfast/blueberryMuffins.tex) (./breakfast/carrotBread.tex)
@@ -721,15 +725,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--17
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [13
-
-
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [14]
-[15]) (./cookbook.aux (./apps/apps.aux) (./breakfast/breakfast.aux))
+ [13]
+[14]) (./cookbook.aux (./apps/apps.aux) (./breakfast/breakfast.aux))
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 2.90001pt have occurred.
@@ -738,7 +735,7 @@ LaTeX Font Warning: Size substitutions with differences
 Here is how much of TeX's memory you used:
  8620 strings out of 493304
  164695 string characters out of 6139871
- 211288 words of memory out of 5000000
+ 214288 words of memory out of 5000000
  11860 multiletter control sequences out of 15000+600000
  38504 words of font info for 71 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -750,10 +747,10 @@ onts/type1/urw/avantgar/uagd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/u
 rw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ub
 kl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb>
-Output written on cookbook.pdf (15 pages, 87721 bytes).
+Output written on cookbook.pdf (14 pages, 86901 bytes).
 PDF statistics:
- 82 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
+ 79 PDF objects out of 1000 (max. 8388607)
+ 55 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
