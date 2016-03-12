@@ -11,3 +11,8 @@
 \contentsline {subsubsection}{Southwestern Ranch Dip}{11}
 \contentsline {subsubsection}{Spicy Candied Pecans}{11}
 \contentsline {subsubsection}{Tomato Mozzerella Tart}{12}
+\contentsline {chapter}{\numberline {2}Breakfast}{13}
+\contentsline {subsubsection}{Banana Oatmeal Loaf}{13}
+\contentsline {subsubsection}{Berry Special Muffins}{14}
+\contentsline {subsubsection}{Blueberry Muffins}{14}
+\contentsline {subsubsection}{Carrot Bread}{15}
